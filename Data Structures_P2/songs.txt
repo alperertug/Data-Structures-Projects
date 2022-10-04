@@ -1,0 +1,31 @@
+Iki keklik;Erkan Ogur;1001;Turk Halk;1996
+Kis Gunesi;Tarkan;1002;Pop;1994
+Nadas;Feridun Duzagac;1003;Rock;2003
+Zaferlerim;Demir Demirkan;1004;Rock;2004
+Yap;Emre Yilmaz;1005;pop;2012
+Yolla;Tarkan;1006;Pop;2014
+Break Stuff;Limp Bizkit;1007;Nu Metal;1999
+In The End;Linkin Park;1008;Nu Metal;2001
+Gel Yanima Gel;Neset Ertas;1009;Turk Halk;1999
+Bir Derdim Var;Mor ve Otesi;1010;Rock;2004
+Helal Olsun;Duman;1011;Rock;2009
+My Immortal;Evanescence;1012;Rock;2003
+Bitti Ruya;Manga;1013;Nu Metal;2004
+Oyunbozan;Mor ve Otesi;1014;Rock;2012
+Bak;Pilli Bebek;1015;Rock;2007
+Olsun;Pilli Bebek;1016;Rock;2007
+Senin Gibi;Aylin Aslim;1017;Rock;2000
+Vazgectim Dunyadan;Sebnem Ferah;1018;Rock;1996
+Olsun;Sertap Erener;1019;Pop;2016
+Tutamiyorum Zamani;Kenan Dogulu;1020;Pop;2001
+New Rules;Dua Lipa;1021;Pop;2018
+Bad Guy;Billie Eilish;1022;Pop;2019
+Still Got The Blues;Gary Moore;1023;Blues;1990
+The Devil's Daughters;Shawn James;1024;Rock;2021
+Feel It Still;Portugal;1025;Funk;2017
+This Is My Time;Lecrae;1026;Hip Hop;2020
+The Less I Know The Better;Tame Impala;1027;Alternative;2015
+How Do You Like That;Black Pink;1028;K Pop;2020
+Colors;Black Pumas;1029;Classic Soul;2019
+Welcome Home;Metallica;1030;Metal;1986
+Chop Suey;System Of A Down;1031;Nu Metal;2001

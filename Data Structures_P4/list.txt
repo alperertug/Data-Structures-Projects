@@ -1,0 +1,11 @@
+Alper,Emre,10
+Yusuf,Emre,8
+Aziz,Nil,5
+Ozgur,Alper,10
+Berkay,Emre,12
+Berke,Berkay,20
+Alper,Aziz,15
+Emre,Aziz,6
+Kozkaya,Berke,7
+Aziz,Ozgur,32
+mert,ali,16
